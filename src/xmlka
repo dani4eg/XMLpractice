@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="1">
+        <name>LichKing</name>
+        <mark>DD</mark>
+    </student>
+    <student id="2">
+        <name>Silencer</name>
+        <mark>Mage</mark>
+    </student>
+    <student>
+        <name>Invoker</name>
+        <mark>Mage</mark>
+    </student>
+</students>
